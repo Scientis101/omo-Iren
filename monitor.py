@@ -1,0 +1,13 @@
+linux
+GIT
+Maven
+TOMCAT
+NGINX
+SonarQube
+NEXUS
+Jenkins
+AWS
+Terraform
+Docker
+Kubernetes
+Ansible
